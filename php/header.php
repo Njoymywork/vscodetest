@@ -12,7 +12,7 @@
   <div class="collapse" id="navbarToggleExternalContent">
     <div class="bg-dark p-4">
         <nav class="menu">
-            <a href="../php/ja.php">Ja
+            <a href="../php/ja.php">Jaa
             </a>
             <a href="../php/moje-prace.php">Moje práce
             </a>
